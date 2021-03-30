@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lucianomartinsjr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- Actualy i'm Software Engineering Student on UNIRV - Universidade de Rio Verde.
+- 🌱 I’m currently learning java and portugol
 - 📫 How to reach me @lucianomartins
 
 <!---
