@@ -6,8 +6,8 @@ Currently learning Java and C
 </hr>
 <div style="align:center" >
 <a href="https://github.com/lucianomartinsjr">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucianomartinsjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucianomartinsjr&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucianomartinsjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucianomartinsjr&layout=compact&langs_count=8&theme=dracula"/>
   
   ##
 </div>
