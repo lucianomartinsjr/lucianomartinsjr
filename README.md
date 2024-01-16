@@ -1,6 +1,7 @@
 <div align="center">
   <h2> Hi, I'm Luciano Martins! 👋</h2>
-  <p>Undergraduate B.Sc. in Software Engineering at Universidade de Rio Verde</p>
+  <p>Passionate about software engineering and currently pursuing a B.Sc. in Software Engineering at Universidade de Rio Verde. I have a keen interest in honing my skills to create innovative and efficient solutions.</p>
+  <p>Here's a glimpse of my coding journey:</p>
 </div>
 
 </br></br>
