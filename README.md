@@ -8,15 +8,26 @@
 
 ## 🔍 About Me  
 
-I am a **Software Engineer** with over **6 years of experience** in technology. My expertise lies in **test automation**, software quality, and developing robust software solutions. I thrive on solving complex problems and working in multidisciplinary teams to deliver measurable results.  
+🔍 About Me
 
-- 🛠️ **Core Skills:**  
-  - **Test Automation:** Cypress, TypeScript, Jenkins  
-  - **Development:** Flutter, NestJS, Python,
-  - **Databases:** Oracle, PostgreSQL  
-  - **Other Tools:** Git, Docker  
+I am a QA Automation Engineer with a Software Engineering background and over 8 years of experience in the technology sector, working with test automation, software quality, and system development.
 
-- 🌐 **Languages:** English (Advanced - C1) | Portuguese (Native)
+I specialize in End-to-End (E2E) test automation using Cypress and TypeScript, API testing, and integrating automated tests into CI/CD pipelines using Jenkins and Docker. My background in software development allows me to contribute not only to testing but also to improving system architecture, testability, and development processes.
+
+Throughout my career, I have worked in technical support, software development, and QA automation, which gives me a strong understanding of the product from both technical and business perspectives. I am comfortable working in Agile environments and collaborating with developers, product teams, and stakeholders to deliver reliable and high-quality software.
+
+🛠️ Core Skills:
+Test Automation: Cypress, TypeScript, API Testing, E2E Testing
+CI/CD: Jenkins, Docker, GitHub Actions
+Development: JavaScript, TypeScript, Flutter, NestJS, Python
+Databases: PostgreSQL, Oracle, SQL
+Other Tools: Git, Docker, Agile, BDD
+
+🌐 Languages:
+English (Advanced – C1)
+Portuguese (Native)
+
+I am currently looking for remote opportunities as a QA Automation Engineer or SDET.
 
 ---
 
