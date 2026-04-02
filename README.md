@@ -22,7 +22,7 @@ I am a **Software Engineer** with over **6 years of experience** in technology. 
 
 ## 🚀 Featured Projects  
 
-### [🔗 E2E Test Automation - BugBank](https://github.com/lucianomartinsjr/AirOps_frontend)  
+### [🔗 E2E Test Automation - BugBank]((https://github.com/lucianomartinsjr/bugbank-cypress-e2e)  
 **Description:** End-to-End test automation project for a banking web application, focusing on validating critical user flows, business rules, and negative scenarios using a structured automation framework.
 
 **My Role**: QA Automation Engineer, responsible for designing the test architecture, implementing automated tests, organizing the project using Page Object Model, and creating test scenarios for UI and business rule validation.
