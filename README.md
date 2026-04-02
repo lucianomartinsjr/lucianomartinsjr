@@ -22,8 +22,15 @@ I am a **Software Engineer** with over **6 years of experience** in technology. 
 
 ## 🚀 Featured Projects  
 
-### [🔗 E2E Test Automation - BugBank]((https://github.com/lucianomartinsjr/bugbank-cypress-e2e)  
-**Description:** End-to-End test automation project for a banking web application, focusing on validating critical user flows, business rules, and negative scenarios using a structured automation framework.
+### [🔗 QA Automation Framework – Cypress ](https://github.com/lucianomartinsjr/qa-automation-framework-cypress)  
+**Description:**: Test automation framework built from scratch using Cypress, designed to support scalable End-to-End (E2E) and API testing with a structured architecture and reusable components.
+
+**My Role**: QA Automation Engineer, responsible for designing the automation framework architecture, implementing automated tests, creating reusable commands, organizing the project structure, and applying best practices such as Page Object Model and test data management.
+
+**Technologies:**: Cypress, JavaScript, TypeScript, Page Object Model (POM), Fixtures, API Testing
+
+### [🔗 E2E Test Automation - BugBank](https://github.com/lucianomartinsjr/bugbank-cypress-e2e)  
+**Description:**: End-to-End test automation project for a banking web application, focusing on validating critical user flows, business rules, and negative scenarios using a structured automation framework.
 
 **My Role**: QA Automation Engineer, responsible for designing the test architecture, implementing automated tests, organizing the project using Page Object Model, and creating test scenarios for UI and business rule validation.
 
