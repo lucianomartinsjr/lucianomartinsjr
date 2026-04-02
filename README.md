@@ -22,6 +22,11 @@ I am a **Software Engineer** with over **6 years of experience** in technology. 
 
 ## 🚀 Featured Projects  
 
+### [🔗 E2E Test Automation - BugBank](https://github.com/lucianomartinsjr/AirOps_frontend)  
+**Description:** End-to-End test automation project for a banking web application, focusing on validating critical user flows, business rules, and negative scenarios using a structured automation framework.
+**My Role**: QA Automation Engineer, responsible for designing the test architecture, implementing automated tests, organizing the project using Page Object Model, and creating test scenarios for UI and business rule validation.
+**Technologies:** Cypress, TypeScript, JavaScript, Page Object Model (POM), Fixtures
+
 ### [🔗 Airops Frontend](https://github.com/lucianomartinsjr/AirOps_frontend)  
 **Description:** A mobile application developed in **Flutter** for airsoft enthusiasts to search and select games.  
 **Technologies:** Flutter, Dart  
